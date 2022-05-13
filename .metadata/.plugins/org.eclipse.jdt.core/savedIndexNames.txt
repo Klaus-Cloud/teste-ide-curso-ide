@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\nikla\Desktop\Java Bootcamp DIO\DIO\Java\Primeiro Programa\.metadata\.plugins\org.eclipse.jdt.core
